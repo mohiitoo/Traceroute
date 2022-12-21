@@ -7,7 +7,7 @@ i have tow class
 
 first  step write your variables valeu to .env file simple---> address='www.w3schools.com'
         and next step
-            ```linux
+            ```linux comand
             $→ source runing.txt 
             ``` 
                 (for active env file )
